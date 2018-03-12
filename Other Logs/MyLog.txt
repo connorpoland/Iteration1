@@ -1,0 +1,194 @@
+Quest of the Round Table - Log
+-----------------------------
+CONTROL : A new game has begun with 4 players
+-- MODEL : player 0 drew Thieves
+-- MODEL : player 0 drew Saxons
+-- MODEL : player 0 drew Robber Knight
+-- MODEL : player 0 drew Mordred
+-- MODEL : player 0 drew Green Knight
+-- MODEL : player 0 drew Giant
+-- MODEL : player 0 drew Excalibur
+-- MODEL : player 0 drew Boar
+-- MODEL : player 0 drew Dagger
+-- MODEL : player 0 drew Horse
+-- MODEL : player 0 drew Battle-ax
+-- MODEL : player 0 drew Sword
+-- MODEL : player 1 drew Lance
+-- MODEL : player 1 drew Excalibur
+-- MODEL : player 1 drew Thieves
+-- MODEL : player 1 drew Saxons
+-- MODEL : player 1 drew Robber Knight
+-- MODEL : player 1 drew Mordred
+-- MODEL : player 1 drew Green Knight
+-- MODEL : player 1 drew Giant
+-- MODEL : player 1 drew Excalibur
+-- MODEL : player 1 drew Boar
+-- MODEL : player 1 drew Dagger
+-- MODEL : player 1 drew Horse
+-- MODEL : player 2 drew Battle-ax
+-- MODEL : player 2 drew Sword
+-- MODEL : player 2 drew Lance
+-- MODEL : player 2 drew Excalibur
+-- MODEL : player 2 drew Thieves
+-- MODEL : player 2 drew Saxons
+-- MODEL : player 2 drew Robber Knight
+-- MODEL : player 2 drew Mordred
+-- MODEL : player 2 drew Green Knight
+-- MODEL : player 2 drew Giant
+-- MODEL : player 2 drew Excalibur
+-- MODEL : player 2 drew Boar
+-- MODEL : player 3 drew Dagger
+-- MODEL : player 3 drew Horse
+-- MODEL : player 3 drew Battle-ax
+-- MODEL : player 3 drew Sword
+-- MODEL : player 3 drew Lance
+-- MODEL : player 3 drew Excalibur
+-- MODEL : player 3 drew Thieves
+-- MODEL : player 3 drew Saxons
+-- MODEL : player 3 drew Robber Knight
+-- MODEL : player 3 drew Mordred
+-- MODEL : player 3 drew Green Knight
+-- MODEL : player 3 drew Giant
+-- MODEL : Boar Hunt has been drawn
+Player 0 sponsors Boar Hunt with Thieves 5 BP, Robber Knight Excalibur Dagger Horse Battle-ax Sword 85 BP, 
+- Player 1 joins the current quest
+-- MODEL : player 1 drew Excalibur
+- Player 1 needs to discard before continuing
+- Player 1 needs to discard before continuing
+-- MODEL : Player 1 has discarded Dagger
+- Player 2 joins the current quest
+-- MODEL : player 2 drew Boar
+- Player 2 needs to discard before continuing
+- Player 2 needs to discard before continuing
+-- MODEL : Player 2 has discarded Thieves
+- Player 3 joins the current quest
+-- MODEL : player 3 drew Dagger
+- Player 3 needs to discard before continuing
+- Player 3 needs to discard before continuing
+-- MODEL : Player 3 has discarded Dagger
+- Player 1 eqipped a Excalibur. New BP: 35
+-- MODEL : Player 1 defeated stage 1 in the Boar Hunt : 35BP vs 5BP
+-- MODEL : Player 1 will continue to stage 11
+-- MODEL : player 1 drew Horse
+-- MODEL : Player 2 defeated stage 1 in the Boar Hunt : 5BP vs 5BP
+-- MODEL : Player 2 will continue to stage 11
+-- MODEL : player 2 drew Battle-ax
+- Player 2 needs to discard before continuing
+-- MODEL : Player 2 has discarded Saxons
+- Player 3 eqipped a Dagger. New BP: 10
+-- MODEL : Player 3 defeated stage 1 in the Boar Hunt : 10BP vs 5BP
+-- MODEL : Player 3 will continue to stage 11
+-- MODEL : player 3 drew Sword
+- Player 1 eqipped a Excalibur. New BP: 35
+- Player 1 eqipped a Horse. New BP: 45
+-- MODEL : Player 1 was defeated by stage  2 in the Boar Hunt : 45BP vs 85BP.
+-- MODEL : Player 1 is eliminated from Boar Hunt
+- Player 2 eqipped a Battle-ax. New BP: 20
+- Player 2 eqipped a Sword. New BP: 30
+- Player 2 eqipped a Lance. New BP: 50
+-- MODEL : Player 2 was defeated by stage  2 in the Boar Hunt : 50BP vs 85BP.
+-- MODEL : Player 2 is eliminated from Boar Hunt
+- Player 3 eqipped a Sword. New BP: 15
+-- MODEL : Player 3 was defeated by stage  2 in the Boar Hunt : 15BP vs 85BP.
+-- MODEL : Player 3 is eliminated from Boar Hunt
+-- MODEL : Player 0 collects their reward for sponsoring the Boar Hunt
+-- MODEL : player 0 drew Lance
+-- MODEL : player 0 drew Excalibur
+-- MODEL : player 0 drew Thieves
+-- MODEL : player 0 drew Saxons
+-- MODEL : player 0 drew Robber Knight
+-- MODEL : player 0 drew Mordred
+-- MODEL : player 0 drew Green Knight
+-- MODEL : player 0 drew Giant
+-- MODEL : player 0 drew Excalibur
+- Player 0 needs to discard before continuing
+- Player 0 needs to discard before continuing
+-- MODEL : Player 0 has discarded Saxons
+- Player 0 needs to discard before continuing
+-- MODEL : Player 0 has discarded Giant
+-- MODEL : the Boar Hunt and it's 7 adventure cards are discarded
+-- MODEL : Boar Hunt has been drawn
+Player 1 sponsors Boar Hunt with Giant 40 BP, Mordred Lance Excalibur Horse 90 BP, 
+- Player 2 joins the current quest
+-- MODEL : player 2 drew Boar
+- Player 3 joins the current quest
+-- MODEL : player 3 drew Dagger
+- Player 0 joins the current quest
+-- MODEL : player 0 drew Horse
+- Player 0 needs to discard before continuing
+- Player 0 needs to discard before continuing
+-- MODEL : Player 0 has discarded Thieves
+-- MODEL : Player 2 was defeated by stage  1 in the Boar Hunt : 5BP vs 40BP.
+-- MODEL : Player 2 is eliminated from Boar Hunt
+-- MODEL : Player 3 was defeated by stage  1 in the Boar Hunt : 5BP vs 40BP.
+-- MODEL : Player 3 is eliminated from Boar Hunt
+- Player 0 eqipped a Excalibur. New BP: 35
+- Player 0 eqipped a Lance. New BP: 55
+- Player 0 eqipped a Horse. New BP: 65
+-- MODEL : Player 0 defeated stage 1 in the Boar Hunt : 65BP vs 40BP
+-- MODEL : Player 0 will continue to stage 11
+-- MODEL : player 0 drew Battle-ax
+-- MODEL : Player 0 was defeated by stage  2 in the Boar Hunt : 5BP vs 90BP.
+-- MODEL : Player 0 is eliminated from Boar Hunt
+-- MODEL : Player 1 collects their reward for sponsoring the Boar Hunt
+-- MODEL : player 1 drew Sword
+-- MODEL : player 1 drew Lance
+-- MODEL : player 1 drew Excalibur
+-- MODEL : adventure discard pile shuffled into adventure deck
+-- MODEL : player 1 drew Excalibur
+-- MODEL : player 1 drew Lance
+-- MODEL : player 1 drew Horse
+-- MODEL : player 1 drew Thieves
+-- MODEL : the Boar Hunt and it's 5 adventure cards are discarded
+-- MODEL : Chivalrous Deed has been drawn
+-- MODEL : player 0 gained 3 shields
+-- MODEL : player 1 gained 3 shields
+-- MODEL : player 2 gained 3 shields
+-- MODEL : player 3 gained 3 shields
+-- MODEL : Boar Hunt has been drawn
+Player 3 sponsors Boar Hunt with Thieves 5 BP, Giant Horse Battle-ax Sword Lance Excalibur Dagger 130 BP, 
+- Player 0 joins the current quest
+-- MODEL : player 0 drew Sword
+- Player 1 joins the current quest
+-- MODEL : player 1 drew Battle-ax
+- Player 1 needs to discard before continuing
+- Player 1 needs to discard before continuing
+-- MODEL : Player 1 has discarded Thieves
+- Player 2 joins the current quest
+-- MODEL : player 2 drew Horse
+-- MODEL : Player 0 defeated stage 1 in the Boar Hunt : 5BP vs 5BP
+-- MODEL : Player 0 will continue to stage 11
+-- MODEL : player 0 drew Dagger
+-- MODEL : Player 1 defeated stage 1 in the Boar Hunt : 5BP vs 5BP
+-- MODEL : Player 1 will continue to stage 11
+-- MODEL : player 1 drew Excalibur
+- Player 1 needs to discard before continuing
+-- MODEL : Player 1 has discarded Sword
+-- MODEL : Player 2 defeated stage 1 in the Boar Hunt : 5BP vs 5BP
+-- MODEL : Player 2 will continue to stage 11
+-- MODEL : player 2 drew Robber Knight
+-- MODEL : Player 0 was defeated by stage  2 in the Boar Hunt : 5BP vs 130BP.
+-- MODEL : Player 0 is eliminated from Boar Hunt
+-- MODEL : Player 1 was defeated by stage  2 in the Boar Hunt : 5BP vs 130BP.
+-- MODEL : Player 1 is eliminated from Boar Hunt
+- Player 2 eqipped a Horse. New BP: 15
+- Player 2 eqipped a Battle-ax. New BP: 30
+- Player 2 eqipped a Excalibur. New BP: 60
+-- MODEL : Player 2 was defeated by stage  2 in the Boar Hunt : 60BP vs 130BP.
+-- MODEL : Player 2 is eliminated from Boar Hunt
+-- MODEL : Player 3 collects their reward for sponsoring the Boar Hunt
+-- MODEL : player 3 drew Thieves
+-- MODEL : player 3 drew Giant
+-- MODEL : player 3 drew Saxons
+-- MODEL : player 3 drew Sword
+-- MODEL : player 3 drew Battle-ax
+-- MODEL : player 3 drew Lance
+-- MODEL : player 3 drew Sword
+-- MODEL : player 3 drew Excalibur
+-- MODEL : player 3 drew Horse
+-- MODEL : player 3 drew Dagger
+- Player 3 needs to discard before continuing
+- Player 3 needs to discard before continuing
+-- MODEL : Player 3 has discarded Dagger
+- Player 3 needs to discard before continuing
+-- MODEL : Player 3 has discarded Horse

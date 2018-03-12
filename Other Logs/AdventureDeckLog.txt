@@ -1,0 +1,72 @@
+Adventure Deck Distrobution - Log
+----------------------------------
+0: Excalibur
+1: Lance
+2: Sword
+3: Battle-ax
+4: Horse
+5: Dagger
+6: Boar
+7: Excalibur
+8: Giant
+9: Green Knight
+10: Mordred
+11: Robber Knight
+12: Saxons
+13: Thieves
+14: Excalibur
+15: Lance
+16: Sword
+17: Battle-ax
+18: Horse
+19: Dagger
+20: Boar
+21: Excalibur
+22: Giant
+23: Green Knight
+24: Mordred
+25: Robber Knight
+26: Saxons
+27: Thieves
+28: Excalibur
+29: Lance
+30: Sword
+31: Battle-ax
+32: Horse
+33: Dagger
+34: Boar
+35: Excalibur
+36: Giant
+37: Green Knight
+38: Mordred
+39: Robber Knight
+40: Saxons
+41: Thieves
+42: Excalibur
+43: Lance
+44: Sword
+45: Battle-ax
+46: Horse
+47: Dagger
+48: Boar
+49: Excalibur
+50: Giant
+51: Green Knight
+52: Mordred
+53: Robber Knight
+54: Saxons
+55: Thieves
+56: Excalibur
+57: Lance
+58: Sword
+59: Battle-ax
+60: Horse
+61: Dagger
+62: Boar
+63: Excalibur
+64: Giant
+65: Green Knight
+66: Mordred
+67: Robber Knight
+68: Saxons
+69: Thieves
